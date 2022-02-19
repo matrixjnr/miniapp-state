@@ -1,0 +1,9 @@
+.test{
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.test view{
+  margin-top: 1em;
+}

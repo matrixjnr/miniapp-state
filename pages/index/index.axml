@@ -1,0 +1,13 @@
+<view class="test">
+  <view>
+    Number {{x}}
+</view>
+
+
+<view>
+  <button onTap="clickFunction" size="default" type="primary">Increase</button>
+</view>
+<view>
+  <button onTap="decFunction" size="default" type="primary">Decrease</button>  
+</view>
+</view>
